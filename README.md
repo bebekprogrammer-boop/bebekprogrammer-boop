@@ -1,18 +1,176 @@
-# 💫 About Me:
-# Hi there, I'm Raden! 👋 A passionate **Fullstack Web Developer** dedicated to building fast, scalable, and beautiful web applications.
+# Hi there! I'm Triba 👋🦆
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/palem.bang.940) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raden.code?igsh=cWFiMjk3OHVnMDN3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/r-triba-isra-kusuma-117589277?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@rdntriba.codes?_r=1&_t=ZS-941zyISIgzt) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@duck developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bebekprogrammer@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=bebekprogrammer&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🦆+Quack+Quack+...+Code+Code&descAlignY=62&descAlign=50" width="100%"/>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= bebekprogrammer-boop&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= bebekprogrammer-boop&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= bebekprogrammer-boop&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=🦆+Bebek+yang+bisa+ngoding!;🌴+Developer+dari+Palembang%2C+Sumatera;⚡+Laravel+%7C+React+%7C+Flutter+%7C+Python;🎓+Mahasiswa+yang+juga+builder;🐛+Bug+bukan+musuh%2C+bug+itu+teman+belajar!;☕+Kopi+habis%2C+semangat+masih+ada!" alt="Typing SVG" />
+
+<br/><br/>
+
+![Visitor](https://komarev.com/ghpvc/?username=bebekprogrammer-boop&color=FF6B9D&style=for-the-badge&label=🦆+PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/bebekprogrammer-boop?label=Followers&style=for-the-badge&logo=github&color=A29BFE)](https://github.com/bebekprogrammer-boop)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id= bebekprogrammer-boop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🦆 Siapa Bebek ini?
+
+<img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1enVsM2Q2bGp1dHN0M2s4bGFzNGdsMzY2ZnlranNpcW5qaTJkMiZlcD12MV9pbnRlcm5hbGdfaWYmc3Q9ZyZjdD1n/WoWm8YzFQJg5i/giphy.gif" />
+
+Halo! Nama saya **R. Triba Isra Kusuma**, mahasiswa dan builder indie dari 🌴 **Palembang, Sumatera Selatan**.
+
+Saya suka membangun sistem yang beneran berguna — bukan cuma buat tugas, tapi buat dunia nyata. Sambil kuliah, saya tetap aktif ngoding project mandiri dan eksplorasi teknologi baru.
+
+- 🎓 Mahasiswa yang kuliah sambil **build real project**
+- 🔭 Lagi fokus membangun **sistem inventaris berbasis web**
+- 🦆 Username bebek karena... bebek itu tenang di atas, tapi kakinya ngayuh terus di bawah — persis kayak developer!
+- 💬 Tanya saya soal **Laravel, React, Flutter, atau kenapa bebek bisa berenang**
+- 🤝 Open buat **kolaborasi, diskusi, atau ngopi bareng online!**
+
+<br clear="right"/>
+
+---
+
+## 🎨 Fun Zone
+
+<details>
+<summary>🦆 &nbsp;<b>Kenapa Username-nya Bebek? (Klik!)</b></summary>
+<br/>
+
+```
+Bebek itu filosofis.
+Di permukaan: tenang, santai, quack quack.
+Di bawah air: kaki ngayuh kenceng banget.
+
+Persis developer:
+Di luar: "iya santai, bisa kok"
+Di dalam: ngetik 200 kata/menit, stack overflow dibuka 10 tab.
+
+🦆 = Developer sejati.
+```
+
+</details>
+
+<details>
+<summary>📍 &nbsp;<b>Life as Palembang Dev (Klik!)</b></summary>
+<br/>
+
+```
+🌅 Pagi   → Ngopi + buka laptop
+🌞 Siang  → Kuliah / ngoding project
+🌇 Sore   → Debug sambil makan pempek
+🌙 Malam  → Git commit jam 2 pagi
+🌃 Subuh  → "eh udah pagi, tidur dulu"
+🔁 Repeat
+```
+
+</details>
+
+<details>
+<summary>💡 &nbsp;<b>Filosofi Ngoding ala Bebek (Klik!)</b></summary>
+<br/>
+
+> *"Quack first, refactor later."*
+
+> *"Kalau error, baca pesan error-nya dulu — jangan langsung tanya Stack Overflow."*
+
+> *"Setiap fitur yang selesai itu kemenangan kecil yang layak dirayakan."*
+
+</details>
+
+<details>
+<summary>📬 &nbsp;<b>Hubungi Bebek (Klik!)</b></summary>
+<br/>
+
+Mau kolaborasi, ngobrol soal tech, atau sekadar say hi? Gas!
+
+[![Email](https://img.shields.io/badge/Gmail-bebekprogrammer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebekprogrammer@gmail.com)
+
+</details>
+
+---
+
+## 🛠️ Tech Stack si Bebek
+
+<div align="center">
+
+### 🔙 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bebekprogrammer-boop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A29BFE&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebekprogrammer-boop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=bebekprogrammer-boop&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FDCB6E&currStreakLabel=A29BFE" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Triba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bebekprogrammer-boop&bg_color=0D1117&color=FF6B9D&line=A29BFE&point=FDCB6E&area=true&hide_border=true)](https://github.com/bebekprogrammer-boop)
+
+</div>
+
+---
+
+## 🤝 Connect with the Duck!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-bebekprogrammer--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bebekprogrammer-boop)
+[![Gmail](https://img.shields.io/badge/Gmail-bebekprogrammer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebekprogrammer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.%20Triba%20Isra%20Kusuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tribaisra)
+[![Instagram](https://img.shields.io/badge/Instagram-@bebekprogrammer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bebekprogrammer)
+[![TikTok](https://img.shields.io/badge/TikTok-@bebekprogrammer-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bebekprogrammer)
+[![Facebook](https://img.shields.io/badge/Facebook-R.%20Triba%20Isra%20Kusuma-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tribaisra)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62)
+[![Lynk.id](https://img.shields.io/badge/Lynk.id-bebekprogrammer-FF6B9D?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/bebekprogrammer)
+
+<br/>
+
+**🦆 "Tenang di atas, ngayuh kenceng di bawah — itulah developer sejati."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=120&section=footer&animation=fadeIn"/>
+
+</div>
