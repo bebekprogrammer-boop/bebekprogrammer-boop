@@ -1,12 +1,12 @@
-# Hi there! I'm Triba 👋🦆
+# Hi there! I'm Triba
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=bebekprogrammer&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🦆+Quack+Quack+...+Code+Code&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=bebekprogrammer&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=+Quack+Quack+...+Code+Code&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=🦆+Bebek+yang+bisa+ngoding!;🌴+Developer+dari+Palembang%2C+Sumatera;⚡+Laravel+%7C+React+%7C+Flutter+%7C+Python;🎓+Mahasiswa+yang+juga+builder;🐛+Bug+bukan+musuh%2C+bug+itu+teman+belajar!;☕+Kopi+habis%2C+semangat+masih+ada!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=%F0%9F%A6%86+Bebek+yang+bisa+ngoding!;%F0%9F%8C%B4+Developer+dari+Palembang%2C+Sumatera;%E2%9A%A1+Laravel+%7C+React+%7C+Flutter+%7C+Python;%F0%9F%8E%93+Mahasiswa+yang+juga+builder;%F0%9F%90%9B+Bug+bukan+musuh%2C+bug+itu+teman+belajar!;%E2%98%95+Kopi+habis%2C+semangat+masih+ada!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -131,8 +131,6 @@ Mau kolaborasi, ngobrol soal tech, atau sekadar say hi? Gas!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bebekprogrammer-boop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A29BFE&text_color=ffffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebekprogrammer-boop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" />
 
 <br/><br/>
 
