@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=bebekprogrammer&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=+Quack+Quack+...+Code+Code&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=bebekprogrammer&fontSize=55&fontColor=ff0&animation=fadeIn&fontAlignY=40&desc=+Quack+Quack+...+Code+Code&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -16,25 +16,7 @@
 
 </div>
 
----
 
-## 🦆 Siapa Bebek ini?
-
-<img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1enVsM2Q2bGp1dHN0M2s4bGFzNGdsMzY2ZnlranNpcW5qaTJkMiZlcD12MV9pbnRlcm5hbGdfaWYmc3Q9ZyZjdD1n/WoWm8YzFQJg5i/giphy.gif" />
-
-Halo! Nama saya **R. Triba Isra Kusuma**, mahasiswa dan builder indie dari 🌴 **Palembang, Sumatera Selatan**.
-
-Saya suka membangun sistem yang beneran berguna — bukan cuma buat tugas, tapi buat dunia nyata. Sambil kuliah, saya tetap aktif ngoding project mandiri dan eksplorasi teknologi baru.
-
-- 🎓 Mahasiswa yang kuliah sambil **build real project**
-- 🔭 Lagi fokus membangun **sistem inventaris berbasis web**
-- 🦆 Username bebek karena... bebek itu tenang di atas, tapi kakinya ngayuh terus di bawah — persis kayak developer!
-- 💬 Tanya saya soal **Laravel, React, Flutter, atau kenapa bebek bisa berenang**
-- 🤝 Open buat **kolaborasi, diskusi, atau ngopi bareng online!**
-
-<br clear="right"/>
-
----
 
 ## 🎨 Fun Zone
 
@@ -127,48 +109,14 @@ Mau kolaborasi, ngobrol soal tech, atau sekadar say hi? Gas!
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.%20Triba%20Isra%20Kusuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-triba-isra-kusuma-117589277)
+[![Instagram](https://img.shields.io/badge/Instagram-@raden.triba-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raden.triba)
+[![TikTok](https://img.shields.io/badge/TikTok-@Radentriba-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@rtriba)
+[![Facebook](https://img.shields.io/badge/Facebook-R.%20Triba%20Isra%20Kusuma-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://web.facebook.com/rtribaisra))
 
-<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=bebekprogrammer-boop&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FDCB6E&currStreakLabel=A29BFE" />
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Triba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bebekprogrammer-boop&bg_color=0D1117&color=FF6B9D&line=A29BFE&point=FDCB6E&area=true&hide_border=true)](https://github.com/bebekprogrammer-boop)
-
-</div>
-
----
-
-## 🤝 Connect with the Duck!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-bebekprogrammer--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bebekprogrammer-boop)
-[![Gmail](https://img.shields.io/badge/Gmail-bebekprogrammer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebekprogrammer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.%20Triba%20Isra%20Kusuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tribaisra)
-[![Instagram](https://img.shields.io/badge/Instagram-@bebekprogrammer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bebekprogrammer)
-[![TikTok](https://img.shields.io/badge/TikTok-@bebekprogrammer-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bebekprogrammer)
-[![Facebook](https://img.shields.io/badge/Facebook-R.%20Triba%20Isra%20Kusuma-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tribaisra)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62)
-[![Lynk.id](https://img.shields.io/badge/Lynk.id-bebekprogrammer-FF6B9D?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/bebekprogrammer)
-
-<br/>
-
-**🦆 "Tenang di atas, ngayuh kenceng di bawah — itulah developer sejati."**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=120&section=footer&animation=fadeIn"/>
 
 </div>
